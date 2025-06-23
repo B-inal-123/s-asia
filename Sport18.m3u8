@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://6d.tanres.us:80/play/live.php?mac=00:1A:79:29:EC:26&stream=843533&extension=ts&play_token=D0HzqElLLm&sn2=

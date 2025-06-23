@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://tv.cloudcdn.me:80/live.ts?channelId=91158&uid=9444&deviceMac=00:1A:79:A4:07:6A
+http://tv.cloudcdn.me:80/live.ts?channelId=123883&uid=13232&deviceMac=00:1A:79:05:92:CC
