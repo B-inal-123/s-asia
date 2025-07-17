@@ -5,7 +5,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=7300000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1920x1020,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:c5:94:26&stream=588900&extension=m3u8
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:02:13:52&stream=588900&extension=m3u8
 
 
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:73:D2:A7&stream=588900&extension=m3u8
