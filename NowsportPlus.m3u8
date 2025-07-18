@@ -3,16 +3,6 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:1
 #EXTINF:1,
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:00:09:7E&stream=588889&extension=ts
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:02:13:52&stream=588889&extension=ts
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:1a:04:b7&stream=588889&extension=ts
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:C8:8A:19&stream=588889&extension=ts
-
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:73:D2:A7&stream=588889&extension=ts
-
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:16:5C&stream=588889&extension=ts
-
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:C5:51:C4&stream=588889&extension=ts
-
-
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:6A:98:18&stream=588889&extension=ts
 
