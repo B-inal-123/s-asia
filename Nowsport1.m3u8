@@ -3,7 +3,4 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:1
 #EXTINF:1,
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:00:09:7E&stream=588906&extension=ts
-
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:02:13:52&stream=588906&extension=ts
-
+http://islacam.live:8080/live/7c%3A0a%3A3f%3Ada%3A7f%3A0a/a3fCQ2y/0e37e451-f0d8-43fb-b83b-717d3a3b8b37.m3u8
