@@ -3,6 +3,6 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:1
 #EXTINF:1,
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:73:16:62&stream=588907&extension=ts
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:00:09:7E&stream=588907&extension=ts
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:73:16:62&stream=588907&extension=ts
 
