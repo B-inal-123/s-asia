@@ -5,8 +5,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=4300000,AVERAGE-BANDWIDTH=3191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:73:16:62&stream=588912&extension=m3u8
-
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:C5:51:C4&stream=588912&extension=m3u8
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:73:D2:A7&stream=588912&extension=m3u8
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:6A:98:18&stream=588912&extension=m3u8
+http://islacam.live:8080/live/7c%3A0a%3A3f%3Ada%3A7f%3A0a/a3fCQ2y/5a5ce6b4-4875-4efd-8ccb-4c6005bba09e.m3u8
