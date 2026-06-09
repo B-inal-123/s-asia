@@ -2,4 +2,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:15:3F:EB&stream=854449&extension=ts&play_token=N7w1sDf7QV&sn2=
+http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=15301&deviceMac=00:1A:79:1D:53:3F
