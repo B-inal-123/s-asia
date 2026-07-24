@@ -2,5 +2,5 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://tv.cloudcdn.me:80/live.ts?channelId=128494&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7A:2A:0F&stream=441111&extension=ts&play_token=6bZogk0i05&sn2=
 http://tv.cloudcdn.me:80/live.ts?channelId=128494&uid=9444&deviceMac=00:1A:79:A4:07:6A
