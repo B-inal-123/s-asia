@@ -3,4 +3,4 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:1
 #EXTINF:1,
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B21&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPUtBTkFlZWN4Y3o=
+http://128.0.104.31:80/live.ts?channelId=129128&uid=4621&deviceMac=00:1A:79:17:BF:CE
