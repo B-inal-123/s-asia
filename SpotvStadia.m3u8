@@ -2,4 +2,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://128.0.104.31:80/live.ts?channelId=133045&uid=4621&deviceMac=00:1A:79:17:BF:CE
+http://128.0.104.31:80/live.ts?channelId=133045&uid=4621&deviceMac=00:1A:79:4A:02:91
