@@ -3,4 +3,4 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:1
 #EXTINF:1,
-http://monkey.streamtv.to:8080/MLS003/qZj4zbPNDn/112198
+http://185.80.197.55:80/play/live.php?mac=00:1B:79:33:05:14&stream=1032527&extension=ts&play_token=IPfuaG9j1D
